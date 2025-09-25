@@ -16,4 +16,4 @@ This is a Navbar page built with HTML CSS AND JAVASCRIPT.
 ## 📂 Installation & Setup
 1. Clone the repo:
    ```bash
-  git clone
+  (git clone)
