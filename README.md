@@ -16,4 +16,4 @@ This is a Navbar page built with HTML CSS AND JAVASCRIPT.
 ## 📂 Installation & Setup
 1. Clone the repo:
    ```bash
- git clone https://github.com/Qaasim-umar/Navbar.git
+   git clone https://github.com/Qaasim-umar/Navbar.git
